@@ -3,8 +3,8 @@
 **Effective Date:** August 9, 2025  
 **Version:** 1.0  
 **Game:** Ishto (mobile)  
-**Repository:** [github.com/489R5N/privacy-polic-ishto](https://github.com/489R5N/privacy-polic-ishto)  
-**Live Policy:** https://489R5N.github.io/privacy-polic-ishto/
+**Repository:** [github.com/489R5N/privacy-polic-ishto](https://github.com/489R5N/privacy-policy-ishto)  
+**Live Policy:** https://489R5N.github.io/privacy-policy-ishto/
 
 ---
 

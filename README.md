@@ -1,146 +1,134 @@
-# Privacy Policy for Ishto
+# Privacy Policy for ISHTO
 
-**Effective Date:** August 9, 2025  
-**Version:** 1.0  
-**Game:** Ishto (mobile)  
-**Repository:** [github.com/489R5N/privacy-polic-ishto](https://github.com/489R5N/privacy-policy-ishto)  
-**Live Policy:** https://489R5N.github.io/privacy-policy-ishto/
+**Effective Date:** [Insert Date, e.g., August 9, 2026]  
+**Last Updated:** [Insert Date, e.g., August 12, 2026]  
 
----
+Thank you for playing **ISHTO** ("the App", "we", "us", or "our"). We are committed to protecting your privacy and ensuring you have a safe and transparent gaming experience. This Privacy Policy explains how your information is collected, used, disclosed, and safeguarded when you use our mobile application.
 
-## 1. Data We Collect
-
-**We do not collect personally identifiable information (PII) such as name, email, or precise location.**
-
-### Automatically Collected (Anonymous)
-- Device information: model, OS version, unique device identifiers (IDFA on iOS / AAID on Android)
-- Gameplay data: level progress, session length, feature usage, in-game events
-- Technical data: IP address (briefly for network connectivity), crash logs, performance metrics
-
-### Optional Data (With Your Consent)
-- Email address (only if you contact support or opt into newsletter)
-- Username/display name (only for leaderboards or social features you enable)
+Please read this Privacy Policy carefully. By downloading, installing, or using **ISHTO**, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
-## 2. How We Use Data
+## Table of Contents
+1. [Information We Collect](#1-information-we-collect)
+2. [How We Use Your Information](#2-how-we-use-your-information)
+3. [Third-Party Services](#3-third-party-services)
+4. [App Permissions](#4-app-permissions)
+5. [Data Retention and Storage](#5-data-retention-and-storage)
+6. [Account and Data Deletion](#6-account-and-data-deletion)
+7. [Data Security](#7-data-security)
+8. [Children's Privacy](#8-childrens-privacy)
+9. [Changes to This Privacy Policy](#9-changes-to-this-privacy-policy)
+10. [Contact Us](#10-contact-us)
 
-- **Game functionality:** Save progress locally, sync across your devices via cloud save
-- **Analytics:** Understand player behavior to improve gameplay, balance difficulty, fix bugs
-- **Advertising:** Show relevant ads through ad networks (see Third-Party Services)
-- **Legal & Safety:** Comply with laws, enforce Terms of Service, prevent fraud/cheating
+---
+
+## 1. Information We Collect
+
+We collect information to provide a better gaming experience, save game progress, enable multiplayer features, and serve advertisements. 
+
+### A. Personal Data Provided by You
+When you create an account or sign in to ISHTO, we may collect:
+* **Account Information:** Email address, username/display name, and account ID.
+* **Authentication Data:** Sign-in provider details if you authenticate via:
+  * Email & Password
+  * Google Sign-In
+  * Google Play Games Services
+  * Twitter / X Sign-In
+* **Guest Users:** If you play as a Guest, a random anonymous guest identifier is generated on your device.
+
+### B. Gameplay and Usage Data
+To sync your progress and offer store features, we collect:
+* Game progress, high scores, statistics, unlocked items, and theme purchases.
+* In-app preferences and settings.
+
+### C. Automatically Collected Technical Information
+* **Device Information:** Device model, operating system version, and network status.
+* **Log Data & Diagnostic Info:** Crash logs, performance metrics, and IP address.
+
+---
+
+## 2. How We Use Your Information
+
+We use the collected information for the following purposes:
+* **Core Functionality:** To authenticate players, save and restore game progress, themes, and profile statistics across devices.
+* **Leaderboards & Game Services:** To sync achievements and high scores via Google Play Games Services.
+* **Advertising:** To serve in-app advertisements via Google AdMob (including personalized or non-personalized ads, subject to your choices).
+* **App Improvement:** To analyze performance, fix bugs, monitor app stability, and improve overall user experience.
 
 ---
 
 ## 3. Third-Party Services
 
-We integrate the following SDKs/services. Each has its own privacy policy governing their data practices.
+ISHTO utilizes third-party services that may collect information used to identify you. Below are links to the privacy policies of the third-party service providers used by the App:
 
-| Service | Purpose | Data Shared | Privacy Policy |
-|---------|---------|-------------|----------------|
-| Google AdMob | In-app advertising | Advertising ID, device info, coarse location | [Google Privacy](https://policies.google.com/technologies/partner-sites) |
-| Unity Analytics | Game analytics & performance | Anonymous gameplay events, device data | [Unity Privacy](https://unity.com/legal/privacy-policy) |
-| Firebase Crashlytics | Crash reporting & stability | Crash logs, device state, app version | [Firebase Privacy](https://firebase.google.com/support/privacy) |
-| Google Play Games / Apple Game Center | Leaderboards, achievements, cloud save | Player ID, scores, game progress | [Google](https://policies.google.com/privacy) / [Apple](https://www.apple.com/legal/privacy/) |
-
----
-
-## 4. Data Retention
-
-- Analytics/event data: 13 months (aggregated/anonymized thereafter)
-- Crash logs: 90 days
-- Support communications: Until resolved + 30 days
-- Account/profile data: Until you request deletion
-- Advertising ID data: Per ad network policies (typically 13–14 months)
+* **Google Firebase & Cloud Firestore** (Authentication and Cloud Database)  
+  [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+* **Google Play Games Services** (Leaderboards & Authentication)  
+  [Google Privacy Policy](https://policies.google.com/privacy)
+* **Google AdMob** (Advertisements)  
+  [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads)
+* **Twitter / X API** (OAuth Authentication)  
+  [Twitter Privacy Policy](https://twitter.com/en/privacy)
 
 ---
 
-## 5. Your Rights (GDPR, CCPA, LGPD)
+## 4. App Permissions
 
-- **Access:** Request a copy of your personal data
-- **Deletion:** Request erasure of your data (contact us below)
-- **Opt-out:** Disable personalized ads in game settings or device settings (iOS: Settings → Privacy → Tracking; Android: Settings → Google → Ads → Opt out)
-- **Portability:** Export your data in a readable format
-- **Restriction:** Limit processing of your data
+To function correctly, ISHTO requires the following permissions on your device:
 
-To exercise any right, email us at the address below. We respond within 30 days.
+| Permission | Purpose |
+| :--- | :--- |
+| `INTERNET` | Required for online authentication, saving game data to Firebase Firestore, and loading AdMob ads. |
+| `ACCESS_NETWORK_STATE` | Used to check whether the device has an active internet connection. |
+| `VIBRATE` | Enables tactile haptic feedback during gameplay interactions. |
 
 ---
 
-## 6. Children's Privacy (COPPA / GDPR-K)
+## 5. Data Retention and Storage
 
-Ishto is not directed at children under 13 (or 16 in the EU/UK). We do not knowingly collect personal data from children. If you are a parent/guardian and believe your child has provided us data, contact us immediately for deletion.
+* Your game data and profile information are stored securely on **Google Firebase Cloud Firestore**.
+* We retain your data for as long as your account remains active or as needed to provide you with the App's services.
+* Guest account data is stored locally on the device or tied anonymously to temporary Firebase Guest tokens.
+
+---
+
+## 6. Account and Data Deletion
+
+You have the right to request the deletion of your personal data and account at any time.
+
+### How to Request Account / Data Deletion:
+1. **Email Request:** Send an email to **[Your Support Email Address]** with the subject line `Account Deletion Request`.
+2. **Details Required:** Please include your **Username**, **Email Address** linked to the account, or **User ID** (found in your profile screen).
+3. **Processing Time:** We will verify your request and permanently delete your account data, scores, and cloud progress from Firebase within **30 days**.
 
 ---
 
 ## 7. Data Security
 
-- Encryption in transit: TLS 1.2+ for all network communication
-- Encryption at rest: Stored data encrypted via platform keystores
-- Access controls: Limited personnel access with audit logging
-- Regular security reviews and dependency updates
-
-No transmission or storage is 100% secure. We notify affected users and authorities if a breach occurs per legal requirements.
+We take the security of your data seriously:
+* All data transmitted between the App and Firebase servers is encrypted in transit using SSL/TLS.
+* Access to database records is restricted via secure Firebase Security Rules.
+* Note that while we strive to use commercially acceptable means to protect your personal information, no method of transmission over the internet or electronic storage is 100% secure.
 
 ---
 
-## 8. Policy Changes
+## 8. Children's Privacy
 
-We may update this policy. Material changes will be notified via:
-
-- In-game notice on next launch
-- Email (if you provided one)
-- Updated "Effective Date" above
-
-Continued use after changes constitutes acceptance. Check this page periodically.
+ISHTO does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information without consent, please contact us at **[Your Support Email Address]**. We will take immediate steps to remove such information from our servers.
 
 ---
 
-## 9. Contact Us
+## 9. Changes to This Privacy Policy
 
-**Data Protection / Privacy Inquiries:** privacy@yourgame.com  
-**General Support:** support@yourgame.com  
-**Postal Address:** Your Company Name, Street Address, City, Country
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any changes by updating the **"Effective Date"** at the top of this Privacy Policy.
 
 ---
 
-## App Store Submission URLs
+## 10. Contact Us
 
-Use this URL for all stores:
+If you have any questions, suggestions, or concerns regarding this Privacy Policy or data privacy in ISHTO, please contact us at:
 
-```
-https://489R5N.github.io/privacy-polic-ishto/
-```
-
-- **App Store Connect:** App Information → Privacy Policy URL
-- **Google Play Console:** Store presence → Store settings → Privacy policy URL
-- **Steamworks:** Store Page → Basic Info → Privacy Policy URL
-
----
-
-## GitHub Pages Setup (Already Configured)
-
-1. Settings → Pages
-2. Source: **Deploy from a branch**
-3. Branch: **main** → **/(root)**
-4. Save
-
-The README.md renders automatically as the policy page.
-
----
-
-## Custom Domain (Optional)
-
-1. Add `CNAME` file: `echo "privacy.yourgame.com" > CNAME`
-2. DNS: CNAME record `privacy` → `489R5N.github.io`
-3. Settings → Pages → Custom domain → enter domain → Enforce HTTPS
-
----
-
-## Version History
-
-View full change history: [github.com/489R5N/privacy-polic-ishto/commits/main](https://github.com/489R5N/privacy-polic-ishto/commits/main)
-
----
-
-© 2025 Ishto. All rights reserved.
+* **Developer/Entity Name:** [Your Name or Studio Name]
+* **Email:** [Your Support Email Address]
+* **GitHub Repository:** [Link to your GitHub Profile or App Repository]

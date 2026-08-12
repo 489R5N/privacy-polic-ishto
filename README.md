@@ -1,6 +1,6 @@
 # Privacy Policy for ISHTO
 
-**Effective Date:** [Insert Date, e.g., August 9, 2026]  
+**Effective Date:** August 9, 2026  
 **Last Updated:** [Insert Date, e.g., August 12, 2026]  
 
 Thank you for playing **ISHTO** ("the App", "we", "us", or "our"). We are committed to protecting your privacy and ensuring you have a safe and transparent gaming experience. This Privacy Policy explains how your information is collected, used, disclosed, and safeguarded when you use our mobile application.

@@ -1,7 +1,7 @@
 # Privacy Policy for ISHTO
 
 **Effective Date:** August 9, 2026  
-**Last Updated:** [Insert Date, e.g., August 12, 2026]  
+**Last Updated:** August 12, 2026  
 
 Thank you for playing **ISHTO** ("the App", "we", "us", or "our"). We are committed to protecting your privacy and ensuring you have a safe and transparent gaming experience. This Privacy Policy explains how your information is collected, used, disclosed, and safeguarded when you use our mobile application.
 
@@ -98,7 +98,7 @@ To function correctly, ISHTO requires the following permissions on your device:
 You have the right to request the deletion of your personal data and account at any time.
 
 ### How to Request Account / Data Deletion:
-1. **Email Request:** Send an email to **[Your Support Email Address]** with the subject line `Account Deletion Request`.
+1. **Email Request:** Send an email to **pixelcube.dev@gmail.com** with the subject line `Account Deletion Request`.
 2. **Details Required:** Please include your **Username**, **Email Address** linked to the account, or **User ID** (found in your profile screen).
 3. **Processing Time:** We will verify your request and permanently delete your account data, scores, and cloud progress from Firebase within **30 days**.
 
@@ -115,7 +115,7 @@ We take the security of your data seriously:
 
 ## 8. Children's Privacy
 
-ISHTO does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information without consent, please contact us at **[Your Support Email Address]**. We will take immediate steps to remove such information from our servers.
+ISHTO does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information without consent, please contact us at **pixelcube.dev@gmail.com**. We will take immediate steps to remove such information from our servers.
 
 ---
 
@@ -129,6 +129,6 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or data privacy in ISHTO, please contact us at:
 
-* **Developer/Entity Name:** [Your Name or Studio Name]
-* **Email:** [Your Support Email Address]
-* **GitHub Repository:** [Link to your GitHub Profile or App Repository]
+* **Developer/Entity Name:** Pixel Cube
+* **Email:** pixelcube.dev@gmail.com
+* **GitHub Repository:** https://github.com/489R5N/privacy-policy-ishto

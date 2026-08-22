@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISHTO - Account & Data Deletion Request</title>
+    <style>
+        :root {
+            --primary: #1976D2;
+            --bg: #0d1b2a;
+            --card-bg: #1b263b;
+            --text: #e0e1dd;
+            --accent: #4cc9f0;
+            --danger: #e63946;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background-color: var(--card-bg);
+            max-width: 650px;
+            width: 100%;
+            border-radius: 16px;
+            padding: 32px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        h1 {
+            color: var(--accent);
+            font-size: 24px;
+            margin-top: 0;
+        }
+        p, li {
+            line-height: 1.6;
+            font-size: 15px;
+            color: #d1d5db;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .box {
+            background: rgba(255,255,255,0.05);
+            border-left: 4px solid var(--accent);
+            padding: 16px;
+            border-radius: 0 8px 8px 0;
+            margin: 20px 0;
+        }
+        .btn {
+            display: inline-block;
+            background-color: var(--danger);
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 15px;
+            margin-top: 12px;
+            transition: background 0.2s;
+        }
+        .btn:hover {
+            background-color: #d62828;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 13px;
+            color: #8d99ae;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            padding-top: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ISHTO - Account & Data Deletion</h1>
+        <p>In accordance with Google Play Data Safety policies, players can request complete deletion of their ISHTO account and associated gameplay data.</p>
+        
+        <div class="box">
+            <h3 style="margin-top:0; color:#fff;">Option 1: In-App Instant Deletion</h3>
+            <p>You can delete your account and local data immediately inside the game:</p>
+            <ol>
+                <li>Open the <strong>ISHTO</strong> app.</li>
+                <li>Tap <strong>Settings</strong> ⚙️ from the bottom navigation bar.</li>
+                <li>Tap <strong>"Account & Data"</strong> &rarr; <strong>"Delete Account"</strong> / <strong>"Reset All Data"</strong>.</li>
+                <li>Confirm deletion. Your account, progress, and cloud data will be wiped immediately.</li>
+            </ol>
+        </div>
+
+        <div class="box">
+            <h3 style="margin-top:0; color:#fff;">Option 2: Web / Email Deletion Request</h3>
+            <p>If you have uninstalled the app or wish to request manual deletion from our servers, send an email to our support team:</p>
+            <ul>
+                <li><strong>Data Deleted:</strong> Profile username, player avatar, Firebase Auth UID, online game match history, coins balance, and unlock records.</li>
+                <li><strong>Data Retained:</strong> In-app purchase transaction receipts may be retained as required by tax and financial compliance laws.</li>
+                <li><strong>Processing Time:</strong> Requests are processed within <strong>7 business days</strong>.</li>
+            </ul>
+            <a href="mailto:support@example.com?subject=ISHTO%20Account%20Deletion%20Request&body=Please%20delete%20my%20ISHTO%20account%20and%20associated%20data.%0A%0AMy%20Username%20or%20Google%20Email:%20" class="btn">
+                ✉️ Request Account Deletion via Email
+            </a>
+        </div>
+
+        <div class="footer">
+            <p><strong>App:</strong> ISHTO - Ancient Indian Strategy Board Game<br>
+            <strong>Support Contact:</strong> support@example.com<br>
+            <strong>Last Updated:</strong> 2026</p>
+        </div>
+    </div>
+</body>
+</html>
